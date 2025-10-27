@@ -1,0 +1,6 @@
+"tag_enhanced_gamemode"
+{
+	"base"		"base"
+	"title"		"Tag Enhanced"
+	"menusystem"	"1"
+}
